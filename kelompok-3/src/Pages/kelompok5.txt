@@ -1,0 +1,7 @@
+Link Repo Tugas
+https://github.com/daffafauzi28/kelompok-5.git
+
+Ketua : Daffa (Routing, Home)
+        Marlina (About)
+        Sophie (Produk)
+        Aziz (Contact)
